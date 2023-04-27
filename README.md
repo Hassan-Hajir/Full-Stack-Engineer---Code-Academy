@@ -1,6 +1,6 @@
 <h1><b>Full stack enginering projects</b></h1>
 
-<u>Fundamentals of HTML</u>
+<h2>Fundamentals of HTML</h2>
 
 In this projects , i learned about the fundamentals of HTML.
 
