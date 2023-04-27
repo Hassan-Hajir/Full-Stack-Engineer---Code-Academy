@@ -2,7 +2,7 @@
 
 <h2>Fundamentals of HTML</h2>
 
-In this projects , i learned about the fundamentals of HTML.
+In these projects , i learned about the fundamentals of HTML.
 
 My goal of this was to get an introduction to the fundamentals of HTML, one of the languages essential to developing websites.
 
